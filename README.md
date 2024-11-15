@@ -1,5 +1,5 @@
 # BashScript
-Durante mi formación profesional como ingeniero, la creacion de archivos `sh` en la shell de linux a sido un papel fundamental, ya que adentrarse a un nuevo SO contrae el aprendizaje de nuevas tecnologias asi como nuevos lenguajes.
+Durante mi formación profesional como ingeniero, la creacion de archivos `sh` en la shell de linux a sido un papel fundamental, ya que adentrarse a un nuevo SO contrae el aprendizaje de nuevas tecnologías asi como nuevos lenguajes.
 
 Si bien es cierto, bash no es considerado un lenguaje de programación, sin embargo, a sido bastante popular en la parte de shell, ya que gracias a este, podemos automatizar bastantes tareas dentro de un SO como lo es el sistema operativo Linux/Unix, aunque en la actualidad esto se puede realizar con algun otro lenguaje de programacion, ta como es con python, c, java, etc.
 
