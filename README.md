@@ -5,4 +5,4 @@ Si bien es cierto, bash no es considerado un lenguaje de programación, sin emba
 
 El SO Linux a traido una gran variedad de cambios y avances tecnológicos gracias a que es *Open Source*, de esta manera, la gran mayoria de los servidores trabajan con Linux, gracias a su flexibilidad de manipulación, asi como su poco consumo de los componentes del **hardware**, siendo esto uno de los principales factores para su uso, y también la **seguridad** que nos ofrece.
 
-En este repositorio podrás encontrar algunos de los scripts que realice mediante mi aprendizaje de `sh` o `shell`
+En este repositorio podrás encontrar algunos de los scripts que realice mediante mi aprendizaje sobre `sh` o `shell` 
